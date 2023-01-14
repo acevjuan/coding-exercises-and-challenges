@@ -1,0 +1,4 @@
+TypeScript - The Basics
+Fireship
+
+Link to the video: https://youtu.be/ahCwqrYpIuM
